@@ -2,6 +2,7 @@
 Time series forecasting for COVID-19 vaccination rates in Malaysia. 
 
 Project was completed as part of a group assignment for the Data Science Principles module in Year 2, Semester 1.
+
 Sections with my contributions:
 - Data Acquisition
 - Data Preparation
